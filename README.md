@@ -60,7 +60,7 @@ ESLint
 Prettier
 
 ## ファイル構成
-
+```bash
 PayCalculator/
 ├── __tests__/     # プロジェクトのテストファイル。各ページや機能を自動テスト。
 ├── public/     # CSSファイルや画像ファイル等の静的なファイル置き場。
@@ -83,3 +83,4 @@ PayCalculator/
               └── index.ejs # 集金計算ページ（入力）
               └── result.ejs # 集金計算ページ（結果）
 
+```
