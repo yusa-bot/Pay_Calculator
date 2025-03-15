@@ -85,5 +85,5 @@ PayCalculator/
 
 ```
 
-## LISENCE
+## LICENSE
 progate path [支払い合計総額を計算する機能の作成](https://app.path.progate.com/tasks/WCf7E-0abXQlxjwUnUAm8/pages/overview)
